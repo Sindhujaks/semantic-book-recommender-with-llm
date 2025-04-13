@@ -18,7 +18,10 @@ This project is an intelligent book recommendation system that uses **sentence e
 
 Dataset contains titles, authors, descriptions, categories, thumbnail URLs, and emotion scores
 
-<pre> ## Requirements Make sure you have Python 3.8+ installed. Then install the required packages: ``` pip install pandas numpy seaborn matplotlib kagglehub ipywidgets python-dotenv \ langchain-community langchain-chroma transformers sentence-transformers notebook gradio ``` </pre>
+## Requirements
+
+Make sure you have Python 3.8+ installed. Then install the required packages: 
+<pre> ``` pip install pandas numpy seaborn matplotlib kagglehub ipywidgets python-dotenv \ langchain-community langchain-chroma transformers sentence-transformers notebook gradio ``` </pre>
 
 ## Acknowledgements
 Thanks to Hugging Face, LangChain, and Gradio for the amazing open-source tools!
